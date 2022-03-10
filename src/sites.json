@@ -6,7 +6,6 @@
       "sn": "YOUR-STUDENT-NUMBER",
       "idCard": "YOUR-PASSWORD"
     },
-    "description": "[未使用] 将 cookie 绑定给用户"
   },
   "cookie": {
     "method": "POST",
