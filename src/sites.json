@@ -6,6 +6,7 @@
       "sn": "YOUR-STUDENT-NUMBER",
       "idCard": "YOUR-PASSWORD"
     },
+    "description": "[未使用] 将 cookie 绑定给用户"
   },
   "cookie": {
     "method": "POST",
@@ -19,7 +20,7 @@
     "data": {
       "healthCondition": "正常",
       "todayMorningTemperature": "36.5°C~36.9°C",
-      "location": "四川省成都市郫都区学知苑10号",
+      "location": "四川省成都市郫都区学知院10号",
       "healthColor": "绿色"
     },
     "description": "在校学生数据"
@@ -34,7 +35,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江西省南昌市",
+      "currentAddress": "江苏省苏州市常熟市",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -44,9 +45,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江西省",
-      "city": "南昌市",
-      "county": "南昌县"
+      "province": "江苏省",
+      "city": "苏州市",
+      "county": "常熟市"
     },
     "description": "离校学生数据"
   }
